@@ -32,10 +32,20 @@ li.contact {
     display: inline;
     font-size: 25px;
     background-color: teal;
+    
 
 }
 h1.welcome {
     color: maroon;
     text-align: center;
     font-size: 60px;
+}
+a:hover {
+    background-color:gold;
+}
+a:visited {
+    color:rebeccapurple;
+}
+a:active {
+    color: red;
 }
